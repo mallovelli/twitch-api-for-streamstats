@@ -1,0 +1,26 @@
+.block {
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+    padding: 50px;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+    font: 1.5em;
+    padding-bottom: 2%;
+}
+.spacer {
+    padding: 3%;
+}
+body {
+    background: url("https://cdn.vox-cdn.com/thumbor/Y8Sm2aH7MgyPlMDYDp5pZQsMv6E=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21845772/acastro_200901_1777_twitch_0003.0.jpg")
+        no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+a {
+    color: white;
+}
